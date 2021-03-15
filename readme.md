@@ -1,3 +1,3 @@
-install python https://python.org/downloads/
+1. install python https://python.org/downloads/
 <br>
-open KonversiBiner.py
+2. open KonversiBiner.py
